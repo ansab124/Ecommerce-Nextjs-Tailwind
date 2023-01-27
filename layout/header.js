@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import logo from "../../assets/logo.png"
+import logo from "../assets/logo.png"
 import { BsHandbag } from 'react-icons/bs'
 import { CiSearch } from 'react-icons/ci'
 import Link from 'next/link'

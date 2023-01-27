@@ -1,8 +1,8 @@
 import Image from 'next/image'
 import React from 'react'
-import image1 from "../../assets/rectangle-1.png"
-import image2 from "../../assets/rectangle-2.png"
-import image3 from "../../assets/rectangle-3.png"
+import image1 from "../assets/rectangle-1.png"
+import image2 from "../assets/rectangle-2.png"
+import image3 from "../assets/rectangle-3.png"
 
 const Reviews = () => {
     return (

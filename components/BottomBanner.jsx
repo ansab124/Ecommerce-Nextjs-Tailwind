@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import image from "../../assets/playstation.png"
+import image from "../assets/playstation.png"
 
 const BottomBanner = () => {
   return (

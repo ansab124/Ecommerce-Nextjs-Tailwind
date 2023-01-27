@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import headphone from "../../assets/head-phone.png"
+import headphone from "../assets/head-phone.png"
 
 const Hero = () => {
     return (

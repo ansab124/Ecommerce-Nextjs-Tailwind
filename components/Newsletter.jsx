@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import newsletter from "../../assets/newsletter.png"
+import newsletter from "../assets/newsletter.png"
 
 const Newsletter = () => {
     return (

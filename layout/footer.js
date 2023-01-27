@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
-import logo from "../../assets/logo.png"
-import icons from "../../assets/social-icons.png"
+import logo from "../assets/logo.png"
+import icons from "../assets/social-icons.png"
 
 const footer_links = [{
     title: "Quick Links",

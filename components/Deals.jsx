@@ -8,7 +8,7 @@ const Deals = ({ item }) => {
 
             
                 <div className='mt-5 h-full'>
-                    <div className={` flex items-center justify-center shadow-md py-5 px-8 w-full h-60 ${item.bg}`}>
+                    <div className={` flex items-center justify-center shadow-md py-5 px-8 w-full h-60 ${item.background}`}>
                         <div className=' justify-center items-center'>
                             <Image src={item.image} width={200} alt="logo"></Image>
                         </div>

@@ -1,5 +1,5 @@
 import '@/styles/globals.css'
-import AppLayout from './layout'
+import AppLayout from '../layout'
 import {Poppins} from "@next/font/google"
 
 const poppins = Poppins({
