@@ -85,13 +85,13 @@ export default function Home() {
   
   const deals = [{
     image: laptop,
-    bg: "bg-gradient-to-tr from-[#EBF1FD] to-[#D1E0F3]",
+    background: "bg-gradient-to-tr from-[#EBF1FD] to-[#D1E0F3]",
     name: "Macbook Pro",
     price: "₦170,560",
   },
   {
     image: headPhone,
-    bg: "bg-gradient-to-tr from-[#EBF1FD] to-[#D1E0F3]",
+    background: "bg-gradient-to-tr from-[#EBF1FD] to-[#D1E0F3]",
     name: "Beat Solo 3",
     price: "₦70,000"
   },
@@ -102,28 +102,28 @@ export default function Home() {
     price: "₦30,000"
   }, {
     image: image3,
-    bg: "bg-gradient-to-tr from-[#EBF1FD] to-[#D1E0F3]",
+    background: "bg-gradient-to-tr from-[#EBF1FD] to-[#D1E0F3]",
     name: "PlayStation VR",
     price: "₦40,700"
   }, {
     image: image4,
-    bg: "bg-gradient-to-tr from-[#EBF1FD] to-[#D1E0F3]",
+    background: "bg-gradient-to-tr from-[#EBF1FD] to-[#D1E0F3]",
     name: "Xbox 1 Controller",
     price: "₦45,000"
   }, {
     image: image5,
-    bg: "bg-gradient-to-tr from-[#EBF1FD] to-[#D1E0F3]",
+    background: "bg-gradient-to-tr from-[#EBF1FD] to-[#D1E0F3]",
     name: "Go Pro Hero session",
     price: "₦225,000"
   }, {
     image: image6,
-    bg: "bg-gradient-to-tr from-[#EBF1FD] to-[#D1E0F3]",
+    background: "bg-gradient-to-tr from-[#EBF1FD] to-[#D1E0F3]",
     name: "Apple Watch Series 3",
     price: "₦125,000"
   },
   {
     image: image7,
-    bg: "bg-gradient-to-tr from-[#EBF1FD] to-[#D1E0F3]",
+    background: "bg-gradient-to-tr from-[#EBF1FD] to-[#D1E0F3]",
     name: "Mavic Drone",
     price: "₦125,000"
   },
